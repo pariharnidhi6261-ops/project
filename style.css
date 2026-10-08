@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 150px;
+}
+
+.nav-links {
+    gap: 50px;
+    display: flex;
+
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-links button {
+    height: 35px;
+    width: 150px;
+
+}
+
+.btn {
+
+    background-color: rgb(4, 114, 114);
+    color: white;
+}
+
+
+
+.main hr {
+    border: 2px solid rgb(95, 91, 91);
+    width: 150px;
+    margin-top: 50px;
+}
+
+.main  {
+    margin: 80px 80px;
+    font-size: 35px;
+}
+
+.main p {
+    margin-top: 50px;
+    font-size: 16px;
+}
+
+.navbar span {
+    color: brown;
+}
+
+.main span {
+    color: brown;
+}
+
+.main button {
+    height: 35px;
+    width: 150px;
+    font-size: 15px;
+    margin-top: 50px;
+
+}
+
+.main .but {
+    background-color: rgb(4, 123, 123);
+    color: white;
+}
+
+.main .us {
+    background-color: red;
+    color: white;
+}
+
+
+.main1{
+display: flex;
+gap: 40px;
+}
+
+.main1 img{
+background-color: white;
+ width:350px;
+ height: 300px;
+ margin-top: 90px;
+ margin-left: 80px;
+}
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
